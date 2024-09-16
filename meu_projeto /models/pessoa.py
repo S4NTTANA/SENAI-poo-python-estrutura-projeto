@@ -20,5 +20,5 @@ class Pessoa:
             f"\nEmail: {self.email}"
             f"\nSexo: {self.sexo.value} \n"
             f"\n===== Endereço do Usuário ====="
-            f"\Endereço: {self.endereco}"
+            f"{self.endereco}"
         )
